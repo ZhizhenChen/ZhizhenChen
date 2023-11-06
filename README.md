@@ -3,15 +3,15 @@
 I'm Nicole Chen, a senior student majoring in Data Science at The University of Hong Kong, Shenzhen, currently live in Shenzhen, China.
 
 ### 🤔WHO AM I?
+🎯 Future Data Scientist: Aspiring to shape the digital future, targeting internet companies.
+
+👩‍🎓 A proactive learner and planner, currently learning techniques about database systems.
+
 🎶 Music Enthusiast: From pop music to violin playing, I adore all things musical.
 
 🌄 Nature Lover: Hiker, cyclist, gym-goer, and nature enthusiast.
 
 📚 Poetry Reader: Currently immersed in Homer's epic poems.
-
-🎯 Future Data Scientist: Aspiring to shape the digital future, targeting internet companies.
-
-👩‍🎓 A proactive learner and planner, currently learning techniques about database systems.
 
 ### 👩‍💻Things I code with:
 ![Static Badge](https://img.shields.io/badge/Python-FFE5CC?logo=python&logoColor=white)
@@ -25,7 +25,7 @@ I'm Nicole Chen, a senior student majoring in Data Science at The University of 
 ![Static Badge](https://img.shields.io/badge/Matlab-9E4F00?logo=Matlab)
 
 ### Open Source Project:
-https://github.com/DDA3005-Project/Accelerated-SVD-for-Video-Background-Extraction
+[https://github.com/DDA3005-Project/Accelerated-SVD-for-Video-Background-Extraction]
 
 Thanks for visiting!
 
