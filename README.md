@@ -14,6 +14,15 @@ I'm Nicole Chen, a senior student majoring in Data Science at The University of 
 👩‍🎓 A proactive learner and planner, currently learning techniques about database systems.
 
 ## 👩‍💻Things I code with:
+![Static Badge](https://img.shields.io/badge/Python-grey?logo=python)
+![Static Badge](https://img.shields.io/badge/C%2B%2B-blue?logo=C%2B%2B)
+![Static Badge](https://img.shields.io/badge/R-purple?logo=R)
+![Static Badge](https://img.shields.io/badge/D3.js-green?logo=D3.js)
+![Static Badge](https://img.shields.io/badge/Numpy-yellow?logo=numpy)
+![Static Badge](https://img.shields.io/badge/matlab-dark%20green?logo=Matlab)
+![Static Badge](https://img.shields.io/badge/MySQL-pink?logo=MySQL)
+![Static Badge](https://img.shields.io/badge/Pandas-red?logo=Pandas)
+![Static Badge](https://img.shields.io/badge/HTML-cyan?logo=HTML5)
 
 
 Thanks for visiting!
