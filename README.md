@@ -1,8 +1,8 @@
-<b><p style="font-size: 50px;">😎Hello there, welcome to my Data-Driven world📊!</p></b>
+## 😎Hello there, welcome to my page📊！
 
 I'm Nicole Chen, a senior student majoring in Data Science at The University of Hong Kong, Shenzhen.
 
-<b><p style="font-size: 50px;"> 🤔WHO AM I?</p></b>
+### 🤔WHO AM I?
 🎯 Future Data Scientist: Aspiring to shape the digital future, targeting internet companies.
 
 👩‍🎓 A proactive learner and planner, currently learning techniques about database systems.
@@ -20,10 +20,12 @@ I'm Nicole Chen, a senior student majoring in Data Science at The University of 
 ![Static Badge](https://img.shields.io/badge/D3.js-FF9933?logo=D3.js&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Numpy-FF8000?logo=numpy)
 ![Static Badge](https://img.shields.io/badge/MySQL-EE7700?logo=MySQL&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Pandas-CC6600?logo=Pandas)
-![Static Badge](https://img.shields.io/badge/HTML-B75C00?logo=HTML5&logoColor=white)
-![Static Badge](https://img.shields.io/badge/PySpark-9E4F00?logo=PySpark)
+![Static Badge](https://img.shields.io/badge/Scikit%20learn-D86D01)
+![Static Badge](https://img.shields.io/badge/Pandas-C66300?logo=Pandas)
+![Static Badge](https://img.shields.io/badge/HTML-B05800?logo=HTML5&logoColor=white)
+![Static Badge](https://img.shields.io/badge/PySpark-9E4F00?logo=Spark)
 ![Static Badge](https://img.shields.io/badge/Matlab-814202?logo=Matlab)
+
 
 
 ### Open Source Team Projects:
