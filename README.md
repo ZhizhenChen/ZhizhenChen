@@ -26,27 +26,9 @@ I'm Nicole Chen, a senior student majoring in Data Science at The University of 
 
 ### Open Source Team Projects:
 
-  <p align="left">
-    <a href="https://github.com/DDA3005-Project/Accelerated-SVD-for-Video-Background-Extraction" style="text-decoration: none; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; color: #0366d6; font-size: 15px; font-weight: bold;">
-      Accelerated-SVD-for-Video-Background-Extraction
-    </a>
-  </p>
+
 
 
 
 Thanks for visiting!
 
-<!--
-**ZhizhenChen/ZhizhenChen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
