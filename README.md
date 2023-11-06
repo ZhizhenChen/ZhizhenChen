@@ -1,6 +1,6 @@
 ## 😎Hello there, welcome to my Data-Driven world📊!
 
-I'm Nicole Chen, a senior student majoring in Data Science at The University of Hong Kong, Shenzhen, currently live in Shenzhen, China.
+I'm Nicole Chen, a senior student majoring in Data Science at The University of Hong Kong, Shenzhen.
 
 ### 🤔WHO AM I?
 🎯 Future Data Scientist: Aspiring to shape the digital future, targeting internet companies.
