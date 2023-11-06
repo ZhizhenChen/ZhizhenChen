@@ -1,4 +1,4 @@
-### 😎Hello there, welcome to my Data-Driven World📊!
+## 😎Hello there, welcome to my Data-Driven world📊!
 
 I'm Nicole Chen, a senior student majoring in Data Science at The University of Hong Kong, Shenzhen, currently live in Shenzhen, China.
 
