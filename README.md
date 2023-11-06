@@ -1,4 +1,7 @@
-### Hi there 👋
+### 😎Hi! Nice to meet you!
+
+Welcome to my page!
+I'm Nicole Chen, a senior student majoring in Data Science at The University of Hong Kong, Shenzhen.
 
 <!--
 **ZhizhenChen/ZhizhenChen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
