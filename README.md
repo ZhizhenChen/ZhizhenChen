@@ -26,8 +26,8 @@ I'm Nicole Chen, a senior student majoring in Data Science at The University of 
 
 ### Open Source Team Projects:
  * <p align="left">
-    <a href="https://github.com/DDA3005-Project/Accelerated-SVD-for-Video-Background-Extraction" style=" font-family: sans-serif; color: #0366d6; font-size: 15px;">
-      <b>Accelerated-SVD-for-Video-Background-Extraction</b>
+    <a href="https://github.com/DDA3005-Project/Accelerated-SVD-for-Video-Background-Extraction" >
+      <b><style=" font-family: sans-serif; color: #0366d6; font-size: 15px;">Accelerated-SVD-for-Video-Background-Extraction</b>
     </a>
   </p>
 
