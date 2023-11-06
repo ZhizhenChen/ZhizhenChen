@@ -33,7 +33,7 @@ I'm Nicole Chen, a senior student majoring in Data Science at The University of 
   
  * <p align="left">
     <a href="https://github.com/ADV-text-detection/ADVtext-detection" style="text-decoration: none;" >
-      <b><font-family: sans-serif><color: #0366d6><font-size: 18px>ADV-text-detection</b>
+      <b><font-family: sans-serif><color: #0366d6><font-size: 18px>ADV-text-detection</font-size></color></font-family></b>
     </a>
   </p>
 
