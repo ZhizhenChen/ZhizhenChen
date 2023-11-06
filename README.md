@@ -1,8 +1,8 @@
-## 😎Hello there, welcome to my Data-Driven World📊!
+### 😎Hello there, welcome to my Data-Driven World📊!
 
 I'm Nicole Chen, a senior student majoring in Data Science at The University of Hong Kong, Shenzhen, currently live in Shenzhen, China.
 
-## 🤔WHO AM I?
+### 🤔WHO AM I?
 🎶 Music Enthusiast: From pop music to violin playing, I adore all things musical.
 
 🌄 Nature Lover: Hiker, cyclist, gym-goer, and nature enthusiast.
@@ -13,7 +13,7 @@ I'm Nicole Chen, a senior student majoring in Data Science at The University of 
 
 👩‍🎓 A proactive learner and planner, currently learning techniques about database systems.
 
-## 👩‍💻Things I code with:
+### 👩‍💻Things I code with:
 ![Static Badge](https://img.shields.io/badge/Python-FFE5CC?logo=python&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-FFCC99?logo=C%2B%2B)
 ![Static Badge](https://img.shields.io/badge/R-FFB266?logo=R)
