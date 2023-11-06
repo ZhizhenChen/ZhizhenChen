@@ -25,9 +25,9 @@ I'm Nicole Chen, a senior student majoring in Data Science at The University of 
 ![Static Badge](https://img.shields.io/badge/Matlab-9E4F00?logo=Matlab)
 
 ### Open Source Team Projects:
- <!-- * <p align="left">
-    <a href="https://github.com/DDA3005-Project/Accelerated-SVD-for-Video-Background-Extraction" style=" font-family: sans-serif; color: #0366d6; font-size: 15px; font-weight: bold;">
-      Accelerated-SVD-for-Video-Background-Extraction
+ * <p align="left">
+    <a href="https://github.com/DDA3005-Project/Accelerated-SVD-for-Video-Background-Extraction" style=" font-family: sans-serif; color: #0366d6; font-size: 15px;">
+      <b>Accelerated-SVD-for-Video-Background-Extraction</b>
     </a>
   </p>
 
@@ -36,7 +36,7 @@ I'm Nicole Chen, a senior student majoring in Data Science at The University of 
       ADVtext-detection
     </a>
   </p>
---> 
+
 
 Thanks for visiting!
 
