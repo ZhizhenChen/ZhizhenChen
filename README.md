@@ -25,7 +25,14 @@ I'm Nicole Chen, a senior student majoring in Data Science at The University of 
 ![Static Badge](https://img.shields.io/badge/Matlab-9E4F00?logo=Matlab)
 
 ### Open Source Project:
-[https://github.com/DDA3005-Project/Accelerated-SVD-for-Video-Background-Extraction]
+
+<p align="center">
+  <a href="https://github.com/DDA3005-Project/Accelerated-SVD-for-Video-Background-Extraction" style="text-decoration: none; color: #0366d6; font-size: 24px; font-weight: bold;">
+    Accelerated-SVD-for-Video-Background-Extraction
+  </a>
+</p>
+
+
 
 Thanks for visiting!
 
