@@ -26,18 +26,18 @@ I'm Nicole Chen, a senior student majoring in Data Science at The University of 
 -->
 
 ### Open Source Team Projects:
- <!-- * <p align="left">
-    <a href="https://github.com/DDA3005-Project/Accelerated-SVD-for-Video-Background-Extraction">
+ * <p align="left">
+    <a href="[Accelerated-SVD-for-Video-Background-Extraction](https://github.com/DDA3005-Project/Accelerated-SVD-for-Video-Background-Extraction)">
       <b><style="text-decoration: none;" ><font-family: sans-serif><color: #0366d6><font-size: 20px>Accelerated-SVD-for-Video-Background-Extraction</b>
     </a>
   </p>
   
  * <p align="left">
-    <a href="https://github.com/ADV-text-detection/ADVtext-detection" style="text-decoration: none;" >
+    <a href="[ADV-text-detection](https://github.com/ADV-text-detection/ADVtext-detection)" style="text-decoration: none;" >
       <b><font-family: sans-serif><color: #0366d6><font-size: 20px>ADV-text-detection</b>
     </a>
   </p>
---> 
+
 
 Thanks for visiting!
 
