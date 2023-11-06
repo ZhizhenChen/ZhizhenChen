@@ -1,8 +1,11 @@
 ### 😎Hi! Nice to meet you!
 
-Welcome to my page!
+Welcome to my Data-Driven World📊🎶!
 
 I'm Nicole Chen, a senior student majoring in Data Science at The University of Hong Kong, Shenzhen, currently live in Shenzhen, China.
+
+🎻I'm an amateur violin player, pop music lover.
+🚵‍♀️I love going hiking, 
 
 <!--
 **ZhizhenChen/ZhizhenChen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
