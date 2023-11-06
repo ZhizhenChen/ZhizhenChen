@@ -11,10 +11,10 @@ I'm Nicole Chen, a senior student majoring in Data Science at The University of 
 
 🎯 Future Data Scientist: Aspiring to shape the digital future, targeting internet companies.
 
-👩‍🎓 A proactive learner and planner, seeking to collaborate and grow within a team-oriented environment, currently learning techniques about database systems.
+👩‍🎓 A proactive learner and planner, currently learning techniques about database systems.
 
 ## 👩‍💻Things I code with:
-https://img.shields.io/badge/python-3.9-orange?style=for-the-badge&logo=python&logoColor=orange
+
 
 Thanks for visiting!
 
