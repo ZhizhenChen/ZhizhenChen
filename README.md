@@ -11,7 +11,7 @@ I'm Nicole Chen, a senior student majoring in Data Science at The University of 
 
 🌄 Nature Lover: Hiker, cyclist, gym-goer, and nature enthusiast.
 
-📚 Poetry Reader: Currently immersed in Homer's epic poems.
+📚 Poetry Amateur: Currently reading Homer's epic poems, studying western and chinese love poems.
 
 ### 👩‍💻Things I code with:
 ![Static Badge](https://img.shields.io/badge/Python-FFE5CC?logo=python&logoColor=white)
