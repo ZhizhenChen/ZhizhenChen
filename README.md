@@ -23,7 +23,6 @@ I'm Nicole Chen, a senior student majoring in Data Science at The University of 
 ![Static Badge](https://img.shields.io/badge/Scikit%20learn-D86D01)
 ![Static Badge](https://img.shields.io/badge/Pandas-C66300?logo=Pandas)
 ![Static Badge](https://img.shields.io/badge/HTML-B05800?logo=HTML5&logoColor=white)
-![Static Badge](https://img.shields.io/badge/PySpark-9E4F00?logo=Spark)
 ![Static Badge](https://img.shields.io/badge/Matlab-814202?logo=Matlab)
 
 
