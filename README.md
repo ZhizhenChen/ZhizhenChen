@@ -1,6 +1,6 @@
 ## 😎Hello there, welcome to my page📊！
 
-I'm Nicole Chen, a senior student majoring in Data Science at The University of Hong Kong, Shenzhen.
+I'm Nicole Chen, a first-year master's student majoring in Operation Research and Industrial Engineering at the University of Texas at Austin, and I have completed a Bachelor's of Science in Data Science degree at The University of Hong Kong, Shenzhen.
 
 ### 🤔WHO AM I?
 🎯 Future Data Scientist: Aspiring to shape the digital future, targeting internet companies.
@@ -29,6 +29,8 @@ I'm Nicole Chen, a senior student majoring in Data Science at The University of 
 
 ### Open Source Team Projects:
 * <b>[Accelerated-SVD-for-Video-Background-Extraction](https://github.com/DDA3005-Project/Accelerated-SVD-for-Video-Background-Extraction)</b>
+* <b>[Adversarial-Text-Detection](https://github.com/ADV-text-detection/ADVtext-detection)</b>
+* <b>[Adversarial-Text-Detection](https://github.com/ADV-text-detection/ADVtext-detection)</b>
 * <b>[Adversarial-Text-Detection](https://github.com/ADV-text-detection/ADVtext-detection)</b>
 
 <b>Thanks for visiting!</b>
