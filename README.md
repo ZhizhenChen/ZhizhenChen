@@ -1,6 +1,6 @@
 ## 😎Hello there, welcome to my page📊！
 
-I'm Nicole Chen, a first-year master's student majoring in Operation Research and Industrial Engineering at the University of Texas at Austin, and I have completed a Bachelor's of Science in Data Science degree at The University of Hong Kong, Shenzhen.
+I'm Nicole Chen, a first-year master's student majoring in Operation Research and Industrial Engineering at the University of Texas at Austin, and I have completed a Bachelor of Science in Data Science degree at The University of Hong Kong, Shenzhen.
 
 ### 🤔WHO AM I?
 🎯 Future Data Scientist: Aspiring to shape the digital future, targeting internet companies.
@@ -11,7 +11,7 @@ I'm Nicole Chen, a first-year master's student majoring in Operation Research an
 
 🌄 Nature Lover: Hiker, cyclist, gym-goer, and nature enthusiast.
 
-📚 Poetry Amateur: Currently reading Homer's epic poems, studying western and chinese love poems.
+📚 Poetry Amateur: Currently reading Homer's epic poems, studying Western and Chinese love poems.
 
 ### 👩‍💻Things I code with:
 ![Static Badge](https://img.shields.io/badge/Python-FFE5CC?logo=python&logoColor=white)
@@ -30,8 +30,8 @@ I'm Nicole Chen, a first-year master's student majoring in Operation Research an
 ### Open Source Team Projects:
 * <b>[Accelerated-SVD-for-Video-Background-Extraction](https://github.com/DDA3005-Project/Accelerated-SVD-for-Video-Background-Extraction)</b>
 * <b>[Adversarial-Text-Detection](https://github.com/ADV-text-detection/ADVtext-detection)</b>
-* <b>[Adversarial-Text-Detection](https://github.com/ADV-text-detection/ADVtext-detection)</b>
-* <b>[Adversarial-Text-Detection](https://github.com/ADV-text-detection/ADVtext-detection)</b>
+* <b>[Sephora-Product-Recommendation-System](https://github.com/TianyiZhang420/eco395m-final-project-recommendation-system)</b>
+* <b>[Analysis-of-Spotify-Audio-Features-and-Popularity](https://github.com/ClaireLu0608/Analysis-of-Spotify-Audio-Features-and-Popularity)</b>
 
 <b>Thanks for visiting!</b>
 
