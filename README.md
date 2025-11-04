@@ -1,6 +1,6 @@
 ## 😎Hello there, welcome to my page📊！
 
-I'm Nicole Chen, a first-year master's student majoring in Operation Research and Industrial Engineering at the University of Texas at Austin, and I have completed a Bachelor of Science in Data Science degree at The University of Hong Kong, Shenzhen.
+I'm Nicole Chen, a second-year master's student majoring in Operation Research and Industrial Engineering at the University of Texas at Austin, and I have completed a Bachelor of Science in Data Science degree at The University of Hong Kong, Shenzhen.
 
 ### 🤔WHO AM I?
 🎯 Future Data Scientist: Aspiring to shape the digital future, targeting internet companies.
