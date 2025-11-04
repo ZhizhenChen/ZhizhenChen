@@ -15,7 +15,7 @@ I'm Nicole Chen, a second-year master's student majoring in Operation Research a
 
 ### 👩‍💻Things I code with:
 ![Static Badge](https://img.shields.io/badge/Python-FFE5CC?logo=python&logoColor=white)
-![Static Badge](https://img.shields.io/badge/MySQL-FFD4AA?logo=MySQL&logoColor=white)
+![Static Badge](https://img.shields.io/badge/SQL-FFD4AA?logo=MySQL&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-FFC288?logo=C%2B%2B&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/R-FFAD66?logo=R&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/D3.js-FF9933?logo=D3.js&logoColor=white)
