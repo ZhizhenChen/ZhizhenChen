@@ -11,7 +11,6 @@ I'm Nicole Chen, a second-year master's student majoring in Operation Research a
 
 🌄 Nature Lover: Hiker, cyclist, gym-goer, and nature enthusiast.
 
-📚 Poetry Amateur: Currently reading Homer's epic poems, studying Western and Chinese love poems.
 
 ### 👩‍💻Things I code with:
 ![Static Badge](https://img.shields.io/badge/Python-FFE5CC?logo=python&logoColor=white)
