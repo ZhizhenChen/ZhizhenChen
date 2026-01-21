@@ -3,7 +3,7 @@
 I'm Nicole Chen, a second-year master's student majoring in Operation Research and Industrial Engineering at the University of Texas at Austin, and I have completed a Bachelor of Science in Data Science degree at The University of Hong Kong, Shenzhen.
 
 ### 🤔WHO AM I?
-🎯 Future Data Scientist: Aspiring to shape the digital future with AI/ML and analytics skills.
+👩‍💻 Data Scientist: Aspiring to shape the digital future with AI/ML and analytics skills.
 
 👩‍🎓 A proactive learner and planner, currently conducting GraphRAG system research.
 
@@ -29,7 +29,7 @@ I'm Nicole Chen, a second-year master's student majoring in Operation Research a
 
 
 ### Open Source Team Projects:
-* <b>[GraphRAG Benchmarking and Evaluation](
+* <b>[GraphRAG Benchmarking and Evaluation](https://github.com/yishanyuan/25Fall-GraphRAG-Bench)</b>
 * <b>[Accelerated-SVD-for-Video-Background-Extraction](https://github.com/DDA3005-Project/Accelerated-SVD-for-Video-Background-Extraction)</b>
 * <b>[Adversarial-Text-Detection](https://github.com/ADV-text-detection/ADVtext-detection)</b>
 * <b>[Analysis-of-Spotify-Audio-Features-and-Popularity](https://github.com/ClaireLu0608/Analysis-of-Spotify-Audio-Features-and-Popularity)</b>
