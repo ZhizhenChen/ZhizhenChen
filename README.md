@@ -29,9 +29,9 @@ I'm Nicole Chen, a second-year master's student majoring in Operation Research a
 
 
 ### Open Source Team Projects:
+* <b>[GraphRAG Benchmarking and Evaluation](
 * <b>[Accelerated-SVD-for-Video-Background-Extraction](https://github.com/DDA3005-Project/Accelerated-SVD-for-Video-Background-Extraction)</b>
 * <b>[Adversarial-Text-Detection](https://github.com/ADV-text-detection/ADVtext-detection)</b>
-* <b>[Sephora-Product-Recommendation-System](https://github.com/TianyiZhang420/eco395m-final-project-recommendation-system)</b>
 * <b>[Analysis-of-Spotify-Audio-Features-and-Popularity](https://github.com/ClaireLu0608/Analysis-of-Spotify-Audio-Features-and-Popularity)</b>
 
 <b>Thanks for visiting!</b>
